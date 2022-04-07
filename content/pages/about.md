@@ -5,17 +5,19 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Alexis Chávez
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Alexis tengo 27 años nací en la ciudad de Tuxtla Gutiérrez
+> Esudio ingeniería en sistema en el Instituto tecnologíco de Tuxtla Gutiérrez
+> Comence a trabajar de programador hace 5 años con la menejadora de Comex en Tuxtla, 
+> como programador Junior para el sistema de ventas y el sistema contable.
+> 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+>Despús de año y medio me mudo a la ciudad de Puebla para trabajar en SIGSA, donde me encuentro 
+>trabajando como desarrollador web desde hace casi tres años.
+
+>Soy una persona un poco distriada por eso trato de mantenerme repasando algunos temas.
+
 
